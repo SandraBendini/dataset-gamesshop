@@ -40,13 +40,13 @@ Se precisar de uma análise mais aprofundada sobre algum ponto específico, esto
 Com base na análise dos dados, aqui estão algumas recomendações estratégicas para impulsionar as vendas e otimizar a receita:
 
 #### 1️⃣ Expandir Mercados-Chave 📍
-🔹 Canadá, França, Austrália, Alemanha e Japão são os países com maior volume de compras.
-🔹 Reforçar campanhas de marketing nesses países pode aumentar ainda mais as vendas.
-🔹 Avaliar a viabilidade de frete reduzido ou mais rápido para essas regiões.
+#####🔹 Canadá, França, Austrália, Alemanha e Japão são os países com maior volume de compras.
+#####🔹 Reforçar campanhas de marketing nesses países pode aumentar ainda mais as vendas.
+#####🔹 Avaliar a viabilidade de frete reduzido ou mais rápido para essas regiões.
 
 #### 2️⃣ Ajuste nos Cupons de Desconto 🎟️
-🔹 Os descontos atuais representam 17,27% do faturamento total, o que pode estar reduzindo a margem de lucro.
-🔹 Estratégia sugerida:
+#####🔹 Os descontos atuais representam 17,27% do faturamento total, o que pode estar reduzindo a margem de lucro.
+#####🔹 Estratégia sugerida:
 ✅ Testar descontos menores em produtos mais vendidos para ver o impacto nas conversões.
 ✅ Criar promoções sazonais (exemplo: Black Friday, Natal) em vez de descontos contínuos.
 ✅ Incentivar compras maiores oferecendo frete grátis em pedidos acima de um valor mínimo.
