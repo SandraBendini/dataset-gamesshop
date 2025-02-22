@@ -4,24 +4,23 @@
 ## Avaliação: 
 A planilha contém dados de vendas da empresa Meganium, incluindo informações detalhadas sobre produtos, clientes e transações. Aqui está um resumo dos principais pontos:
 
-# 📊 Conteúdo da Planilha
-## 1️⃣ Produtos Vendidos
+### 1️⃣ Produtos Vendidos
 
 Inclui SKU, nome do produto e preço unitário.
 Modelos como "NEW MEGANIUM RG 40XXV" e "NEW MEGANIUM RG CubeXX" são os mais vendidos.
-## 2️⃣ Detalhes das Vendas
+### 2️⃣ Detalhes das Vendas
 
 Informações sobre data da venda, quantidade vendida e total arrecadado.
 Os preços variam entre $70 e $110 por unidade.
-## 3️⃣ Informações sobre Compradores
+### 3️⃣ Informações sobre Compradores
 
 Inclui país de entrega, nome e data de nascimento do comprador.
 Os principais mercados são Canadá, França, Austrália, Alemanha e Japão.
-## 4️⃣ Descontos e Promoções
+### 4️⃣ Descontos e Promoções
 
 Há uso frequente de cupons de desconto, que representam 17,27% do faturamento total.
 Cada venda contém informações sobre o código do cupom e o valor descontado.
-## 5️⃣ Tendências de Vendas
+### 5️⃣ Tendências de Vendas
 
 O volume de vendas aumentou ao longo dos meses, com um pico em agosto (47 unidades vendidas).
 Após agosto, as vendas estabilizaram em torno de 38 unidades por mês.
@@ -46,6 +45,8 @@ Com base na análise dos dados, aqui estão algumas recomendações estratégica
 
 🔹 Avaliar a viabilidade de frete reduzido ou mais rápido para essas regiões.
 
+
+
 #### 2️⃣ Ajuste nos Cupons de Desconto 🎟️
 🔹 Os descontos atuais representam 17,27% do faturamento total, o que pode estar reduzindo a margem de lucro.
 
@@ -56,6 +57,7 @@ Com base na análise dos dados, aqui estão algumas recomendações estratégica
 ✅ Criar promoções sazonais (exemplo: Black Friday, Natal) em vez de descontos contínuos.
 
 ✅ Incentivar compras maiores oferecendo frete grátis em pedidos acima de um valor mínimo.
+
 
 #### 3️⃣ Maximizar Vendas dos Produtos de Maior Demanda 📈
 🔹 O modelo "NEW MEGANIUM RG 40XXV" é o mais vendido.
@@ -68,7 +70,9 @@ Com base na análise dos dados, aqui estão algumas recomendações estratégica
 
 ✅ Destacar esse produto com anúncios pagos nas principais plataformas de e-commerce.
 
+
 #### 4️⃣ Atenção à Estabilização das Vendas 📉
+
 🔹 Houve crescimento até agosto, mas as vendas estabilizaram em setembro e outubro.
 
 🔹 Isso pode indicar um mercado saturado ou falta de novidade para atrair novos compradores.
@@ -78,6 +82,7 @@ Com base na análise dos dados, aqui estão algumas recomendações estratégica
 ✅ Lançamento de novos modelos ou recursos para gerar mais interesse.
 
 ✅ Campanhas de remarketing para clientes que já compraram (exemplo: ofertas para clientes recorrentes).
+
 
 #### 5️⃣ Melhorar Experiência do Cliente 🛍️
 🔹 Coletar feedback dos clientes sobre os produtos mais vendidos para identificar pontos de melhoria.
