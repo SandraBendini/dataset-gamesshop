@@ -50,16 +50,22 @@ Com base na análise dos dados, aqui estão algumas recomendações estratégica
 🔹 Os descontos atuais representam 17,27% do faturamento total, o que pode estar reduzindo a margem de lucro.
 
 🔹 Estratégia sugerida:
+
 ✅ Testar descontos menores em produtos mais vendidos para ver o impacto nas conversões.
+
 ✅ Criar promoções sazonais (exemplo: Black Friday, Natal) em vez de descontos contínuos.
+
 ✅ Incentivar compras maiores oferecendo frete grátis em pedidos acima de um valor mínimo.
 
 #### 3️⃣ Maximizar Vendas dos Produtos de Maior Demanda 📈
 🔹 O modelo "NEW MEGANIUM RG 40XXV" é o mais vendido.
 
 🔹 Sugestões para aumentar as vendas desse item:
+
 ✅ Criar kits promocionais (exemplo: acessório grátis na compra de 2 unidades).
+
 ✅ Testar edições especiais ou novas variações de cor desse modelo.
+
 ✅ Destacar esse produto com anúncios pagos nas principais plataformas de e-commerce.
 
 #### 4️⃣ Atenção à Estabilização das Vendas 📉
@@ -68,7 +74,9 @@ Com base na análise dos dados, aqui estão algumas recomendações estratégica
 🔹 Isso pode indicar um mercado saturado ou falta de novidade para atrair novos compradores.
 
 🔹 Soluções possíveis:
+
 ✅ Lançamento de novos modelos ou recursos para gerar mais interesse.
+
 ✅ Campanhas de remarketing para clientes que já compraram (exemplo: ofertas para clientes recorrentes).
 
 #### 5️⃣ Melhorar Experiência do Cliente 🛍️
@@ -107,18 +115,29 @@ Se precisar de uma análise mais detalhada sobre algum ponto, posso aprofundar a
 🔹 Principais mercados (países de entrega mais frequentes):
 
 🇨🇦 Canadá (14 vendas)
+
 🇫🇷 França (12 vendas)
+
 🇦🇺 Austrália (9 vendas)
+
 🇩🇪 Alemanha (9 vendas)
+
 🇯🇵 Japão (8 vendas)
+
 🔹 Tendência de vendas por mês:
 
 📅 Maio: 11 unidades
+
 📅 Junho: 20 unidades
+
 📅 Julho: 25 unidades
+
 📅 Agosto: Pico de 47 unidades
+
 📅 Setembro: 37 unidades
+
 📅 Outubro: 38 unidades
+
 🔹 Média de unidades vendidas por transação: ~2,97 unidades por compra.
 
 🔹 Site onde as vendas ocorreram: Exclusivamente AliExpress.
